@@ -1,66 +1,52 @@
----?color=linear-gradient(to right, #c02425, #f0cb35)
-@title[Introduction]
++++?color=black
 
-@snap[west text-25 text-bold text-white]
-GitPitch<br>*The Template*
-@snapend
+# Modeling and Simulating Software Architectures with Palladio
 
-@snap[south-west byline text-white text-06]
-The Fastest Way From Idea To Presentation.
-@snapend
+@box[bg-orange text-white demo-box-text-padding rounded](Workload-Aware Monitoring of a 1&1 E-mail System)
 
 ---
-@title[Slide Markdown]
 
-### Each slide in this presentation is provided as a *template*.
+## Add Some Slide Candy
 
-<br><br>
-
-@snap[south span-100 text-purple text-05]
-Reuse the *markdown snippet* for any slide in this template within your own @css[text-gold text-bold](PITCHME.md) files.
-@snapend
+![](assets/img/presentation.png)
 
 ---
-@title[Tip! Fullscreen]
+@title[Customize Slide Layout]
 
-![TIP](template/img/tip.png)
-<br>
-For the best viewing experience, press F for fullscreen.
-@css[template-note](We recommend using the *SPACE* key to navigate between slides.)
-
----?include=template/md/split-screen/PITCHME.md
-
----?include=template/md/sidebar/PITCHME.md
-
----?include=template/md/list-content/PITCHME.md
-
----?include=template/md/boxed-text/PITCHME.md
-
----?include=template/md/image/PITCHME.md
-
----?include=template/md/sidebox/PITCHME.md
-
----?include=template/md/code-presenting/PITCHME.md
-
----?include=template/md/header-footer/PITCHME.md
-
----?include=template/md/quotation/PITCHME.md
-
----?include=template/md/announcement/PITCHME.md
-
----?include=template/md/about/PITCHME.md
-
----?include=template/md/wrap-up/PITCHME.md
-
----?image=template/img/presenter.jpg
-@title[The Template Docs]
-
-@snap[north-west sign-off]
-### **Now it's @color[#e58537](your) turn.**
-<br>
-#### Quickstart your next slide deck<br>with @size[1.4em](The GitPitch Template).
+@snap[west span-50]
+## Customize Slide Content Layout
 @snapend
 
-@snap[south docslink text-gold span-100]
-For supporting documentation see the [The Template Docs](https://gitpitch.com/docs/the-template)
+@snap[east span-50]
+![](assets/img/presentation.png)
+@snapend
+
+---?color=#E58537
+@title[Add A Little Imagination]
+
+@snap[north-west]
+#### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
+@snapend
+
+@snap[west span-55]
+@ul[spaced text-white]
+- You will be amazed
+- What you can achieve
+- *With a little imagination...*
+- And **GitPitch Markdown**
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/img/conference.png)
+@snapend
+
+---?image=assets/img/presenter.jpg
+
+@snap[north span-100 headline]
+## Now It's Your Turn
+@snapend
+
+@snap[south span-100 text-06]
+[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
 @snapend
