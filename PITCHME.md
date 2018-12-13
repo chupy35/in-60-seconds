@@ -8,9 +8,9 @@
 
 ---
 
-## Add Some Slide Candy
++++?color=black
 
-![](assets/img/presentation.png)
+![](assets/img/palladio.png)
 
 ---
 @title[Customize Slide Layout]
