@@ -2,8 +2,9 @@
 
 ### Modeling and Simulating Software Architectures with Palladio
 
+&nbsp;
 
-@box[bg-orange text-white demo-box-text-padding rounded](Workload-Aware Monitoring of a 1&1 E-mail asdaSystem)
+@box[bg-orange text-white demo-box-text-padding rounded](Workload-Aware Monitoring of a 1&1 E-mail System)
 
 ---
 
