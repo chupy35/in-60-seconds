@@ -10,7 +10,7 @@
 
 +++?color=black
 
-![](assets/img/palladioperf.png)
+![](img/palladioperf.png)
 
 ---
 @title[Customize Slide Layout]
