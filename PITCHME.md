@@ -64,12 +64,14 @@ Goals and Questions
 ---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
 @title[Heading + List Body]
 
-@snap[west text-12 text-bold text-italic text-orange span-50]
-Modeling
-@snapend
 
 @snap[west]
-@img[split-screen-img span-45](template/img/img2.png)
+@img[split-screen-img span-48](template/img/img2.png)
+
+
+@snap[east text-12 text-bold text-italic text-white span-50]
+Modeling
+@snapend
 
 @snap[east text-white span-45]
 @ol[split-screen-list text-08](false)
