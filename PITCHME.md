@@ -84,4 +84,24 @@ Modeling
 @olend
 @snapend
 
+---color=black
 
+@snap[west span-45]
+# Analysis
+@snapend
+
+@snap[north-east span-60 fragment]
+@box[bg-purple text-white](.#Prediction of expected resource utilization requires measuring the current workload.)
+@snapend
+
+@snap[east span-60 fragment]
+@box[bg-orange text-white](.#Prediction model is completed with the specification of system's usage within the Usage Model generation.)
+@snapend
+
+@snap[south-east span-60 fragment]
+@box[bg-pink text-white](Step 3.#Cupidatat non proident sunt in culpa officia veniam quis.)
+@snapend
+
+@snap[south-west template-note text-white]
+Boxed text fragments template.
+@snapend
