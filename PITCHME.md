@@ -77,9 +77,11 @@ Modeling
 
 &nbsp;
 
-- 
+- Main activities: Model preparation, Model calibration and prediction and comparison 
+- Model has to be specified only once
+- 1st activity: Model describing the system 
+- 2nd activity: Available hardware resources are described 
 @olend
 @snapend
-
 
 
