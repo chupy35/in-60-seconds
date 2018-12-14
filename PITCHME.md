@@ -27,7 +27,7 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-40 list-content-concise text-8 text-white]
+@snap[east span-40 list-content-concise text-white]
 - One of the biggest hosters and leading domain registrars
 - Backend: E-mail sending, receiving requests, persistence via restful HTTP services, POP3, or IMAP
 - Service oriented paradigm
@@ -41,7 +41,7 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-40 list-content-concise text-8 text-white]
+@snap[east span-40 list-content-concise text-white]
 - STORE: folder structures of mailboxes and attachments are saved
 - SERIE and DBFM db: fast access to internal instances informations which single mailboxes are dedicated
 - Mail Delivery Agents (MDAs) and mail transfer agents (MTAs): located on mail exchanger (MX) and mail proxy (MP) servers)
