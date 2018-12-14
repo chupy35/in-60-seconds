@@ -28,7 +28,7 @@ Goals and Questions
 @title[Text + Image]
 
 @snap[east span-46 text-white]
-#### @color[white](**System Description**)
+**System Description**
 @ul[split-screen-list text-05](false)
 - One of the biggest hosters and leading domain registrars
 - Backend: E-mail sending, receiving requests, persistence via restful HTTP services, POP3, or IMAP
