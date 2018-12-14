@@ -86,7 +86,7 @@ Modeling
 
 ---?color=black
 
-@snap[west span-45]
+@snap[west span-40]
 # Analysis
 @snapend
 
