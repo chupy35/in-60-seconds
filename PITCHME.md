@@ -259,19 +259,19 @@ For each cluster only one node within the resource environment was modeled
 
 ---?color=black
 
-@snap[north-west span-40]
+@snap[north-west span-35]
 @box[bg-green text-white demo-box-step-padding](1. #Experience gained is not limited to email systems)
 @snapend
 
-@snap[north-east span-40]
+@snap[north-east span-35]
 @box[bg-orange text-white demo-box-step-padding rounded](2.#Large-Scale systems provide business-critical functionality and monitoring is detailed)
 @snapend 
 
-@snap[south-east span-40]
+@snap[south-east span-35]
 @box[bg-pink text-white demo-box-step-padding](3. #PCM can serve as an architectural documentation and updates it)
 @snapend
 
-@snap[south-west span-40]
+@snap[south-west span-35]
 @box[bg-blue text-white demo-box-step-padding waved](4. #CPU Usage is more precise than HDD because of writing rate)
 @snapend
 
