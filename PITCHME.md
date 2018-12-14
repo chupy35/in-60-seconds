@@ -105,7 +105,7 @@ Modeling
 @title[Application of the Workload-Aware Performance Monitoring Process In the following, we present the application of our approach in the industrial context]
 
 @snap[north-west]
-#### [cyan](**Store subsystem**)
+#### @color[white](**Store subsystem**)
 @snapend
 
 @snap[west span-55]
