@@ -141,7 +141,7 @@ Modeling
 @snapend
 
 @snap[east fragment]
-@img[split-screen-img span-55](template/img/img4.png)
+@img[split-screen-img span-50](template/img/img4.png)
 @snapend
 
 @snap[south-west template-note text-white]
