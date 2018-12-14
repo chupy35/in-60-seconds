@@ -173,3 +173,24 @@ For each cluster only one node within the resource environment was modeled
 @snap[east fragment]
 @img[split-screen-img span-50](template/img/img7.png)
 @snapend
+
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+@title[Model Calibration]
+
+@snap[east span-50 text-white text-05]
+@ul[split-screen-list text-09 span-90](false)
+**Model Calibration**
+
+&nbsp;
+
+- For each server log files and monitoring data were analyzed
+- In Proxy server resources are CPU and network connection.
+- HDD usage is very low
+- In Store servers HDD, CPU and network is heavy demanding
+- Focus on Proxy Server calibration
+@ulend
+@snapend
+
+@snap[west]
+@img[split-screen-img span-50](template/img/img8.png)
+@snapend
