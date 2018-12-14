@@ -69,7 +69,7 @@ Modeling
 @snapend
 
 @snap[west]
-@img[split-screen-img span-50](template/img/img1.png)
+@img[split-screen-img span-50](template/img/img2.png)
 
 @snap[east text-white span-45]
 @ol[split-screen-list text-08](false)
