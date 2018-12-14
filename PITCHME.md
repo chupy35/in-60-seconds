@@ -37,7 +37,7 @@ Goals and Questions
 @snapend
 
 @snap[west]
-@img[split-screen-img span-55](template/img/img1.png)
+@img[split-screen-img span-50](template/img/img1.png)
 @snapend
 
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
@@ -55,4 +55,4 @@ Goals and Questions
 @snapend
 
 @snap[west]
-@img[split-screen-img span-55](template/img/img1.png)
+@img[split-screen-img span-50](template/img/img1.png)
