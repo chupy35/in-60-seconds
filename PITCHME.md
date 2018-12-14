@@ -73,13 +73,11 @@ Modeling
 
 @snap[east text-white span-45]
 @ol[split-screen-list text-08](false)
-**System Description**
+**Modeling - Workload-aware Performance Montoring**
 
 &nbsp;
 
-- Lorem ipsum dolor sit amet, consectetur elit
-- Ut enim ad minim veniam, quis exercitation
-- Duis aute irure dolor in reprehenderit in voluptate
+- 
 @olend
 @snapend
 
