@@ -48,7 +48,7 @@ Goals and Questions
 @title[Text + Image]
 
 @snap[east span-50 text-white text-05]
-@ul[split-screen-list text-07](false)
+@ul[split-screen-list text-09 span-90](false)
 - STORE: folder structures of mailboxes and attachments are saved
 - SERIE and DBFM db: fast access to internal instances informations which single mailboxes are dedicated
 - Mail Delivery Agents (MDAs) and mail transfer agents (MTAs): located on mail exchanger (MX) and mail proxy (MP) servers)
