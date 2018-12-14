@@ -133,18 +133,15 @@ Modeling
 
 @snap[west span-50]
 @ul[spaced text-white text-05]
-- SGATE component handles internal requests from other components (Proxy - Store communication)
-- For availability and prevent data loss Store server run as a cluster of two servers
-- Each clients mailbox is associated with one server
-- In case of failure the other server takes responsibility and the backup is for persistency
-- Distributed Load
-- SGATE, IMAP and POP3 -> 10 servers
-- BACKUP -> 22 servers
+**Model Preparation:**
+- API of SGAE supports multiple requests
+- Log files analyzed and interviews with architects and developers
+- Request is relevant its its occurrences within the workload is higher than 1%
 @ulend
 @snapend
 
 @snap[east fragment]
-@img[split-screen-img span-55](template/img/developer.jpg)
+@img[split-screen-img span-55](template/img/img4.png)
 @snapend
 
 @snap[south-west template-note text-white]
