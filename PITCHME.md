@@ -128,7 +128,7 @@ Modeling
 @title[Performance Modeling Study]
 
 @snap[north-west]
-#### @color[white](**Performance Modeling Study**)
+###### @color[white](**Performance Modeling Study**)
 @snapend
 
 @snap[west span-50]
