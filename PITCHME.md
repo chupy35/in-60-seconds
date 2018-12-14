@@ -159,6 +159,8 @@ Description and Modeling of different components in the Palladio Repository Mode
 
 ---?image=template/img/img6.png&position=center&size=100% 100%
 
+@title[Performance Modeling Study]
+
 ---?image=template/img/bg/green.jpg&position=left&size=50% 100%
 @title[Performance Modeling Study]
 
