@@ -72,7 +72,7 @@ Modeling
 @img[split-screen-img span-50](template/img/img2.png)
 
 @snap[east text-white span-45]
-@ol[split-screen-list text-08](false)
+@ol[split-screen-list text-06](false)
 **Modeling - Workload-aware Performance Montoring**
 
 &nbsp;
