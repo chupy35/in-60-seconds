@@ -124,3 +124,29 @@ Modeling
 @img[shadow](template/img/img3.png)
 @snapend
 
+---?image=template/img/bg/green.jpg&position=left&size=50% 100%
+@title[Performance Modeling Study]
+
+@snap[north-west]
+#### @color[white](**Performance Modeling Study**)
+@snapend
+
+@snap[west span-50]
+@ul[spaced text-white text-05]
+- SGATE component handles internal requests from other components (Proxy - Store communication)
+- For availability and prevent data loss Store server run as a cluster of two servers
+- Each clients mailbox is associated with one server
+- In case of failure the other server takes responsibility and the backup is for persistency
+- Distributed Load
+- SGATE, IMAP and POP3 -> 10 servers
+- BACKUP -> 22 servers
+@ulend
+@snapend
+
+@snap[east fragment]
+@img[split-screen-img span-55](template/img/developer.jpg)
+@snapend
+
+@snap[south-west template-note text-white]
+Split-screen text and image-fragment template.
+@snapend
