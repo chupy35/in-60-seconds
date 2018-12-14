@@ -158,3 +158,16 @@ Description and Modeling of different components in the Palladio Repository Mode
 @snapend
 
 ---?image=template/img/img6.png&position=center&size=100% 100%
+
+---?image=template/img/bg/green.jpg&position=left&size=50% 100%
+@title[Performance Modeling Study]
+
+@snap[north-west span-50]
+@snapend
+@snap[west span-40 text-11 text-white]
+For each cluster only one node within the resource environment was modeled
+@snapend
+
+@snap[east fragment]
+@img[split-screen-img span-50](template/img/img7.png)
+@snapend
