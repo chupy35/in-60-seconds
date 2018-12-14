@@ -131,7 +131,7 @@ Modeling
 ###### @color[white](**Performance Modeling Study**)
 @snapend
 
-@snap[west span-47]
+@snap[west span-45]
 @ul[spaced text-white text-05]
 **Model Preparation:**
 - API of SGAE supports multiple requests
