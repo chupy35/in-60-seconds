@@ -194,3 +194,24 @@ For each cluster only one node within the resource environment was modeled
 @snap[west]
 @img[split-screen-img span-50](template/img/img8.png)
 @snapend
+
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+@title[Model Calibration]
+
+@snap[east span-50 text-white text-05]
+@ul[split-screen-list text-09 span-90](false)
+**Model Calibration**
+
+&nbsp;
+
+- For calculate absolute resource demands, available resources has to been considered 
+- Differentiation between resource demands with fixed value per request and the ones that depend in the contained data size
+- Behavioral descriptions are annotated with derived resource demands.
+- Model of the balancing behavior with a ProbabilisticBranchAction 
+@ulend
+@snapend
+
+@snap[west]
+@img[split-screen-img span-50](template/img/img9.png)
+@snapend
+
