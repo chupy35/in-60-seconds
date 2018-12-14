@@ -27,7 +27,8 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-50 text-white]
+@snap[east span-46 text-white]
+### System Description
 @ul[split-screen-list text-05](false)
 - One of the biggest hosters and leading domain registrars
 - Backend: E-mail sending, receiving requests, persistence via restful HTTP services, POP3, or IMAP
@@ -43,7 +44,7 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-50 text-white]
+@snap[east span-46 text-white]
 @ul[split-screen-list text-05](false)
 - STORE: folder structures of mailboxes and attachments are saved
 - SERIE and DBFM db: fast access to internal instances informations which single mailboxes are dedicated
