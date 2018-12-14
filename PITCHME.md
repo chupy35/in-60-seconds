@@ -28,7 +28,7 @@ Goals and Questions
 @title[Text + Image]
 
 @snap[east span-50 text-white text-05]
-@ul[split-screen-list text-09 span-80](false)
+@ul[split-screen-list text-09 span-100](false)
 **System Description**
 
 &nbsp;
