@@ -27,7 +27,7 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-46 text-white]
+@snap[east span-46 text-white text-05]
 **System Description**
 @ul[split-screen-list text-05](false)
 - One of the biggest hosters and leading domain registrars
