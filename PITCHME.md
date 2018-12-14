@@ -27,13 +27,14 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-20 list-content-concise text-white]
+@snap[east span-50 list-content-concise text-white]
 @o1
 - One of the biggest hosters and leading domain registrars
 - Backend: E-mail sending, receiving requests, persistence via restful HTTP services, POP3, or IMAP
 - Service oriented paradigm
 - Individual deployment per component on dedicated servers in redundant instances.
 @olend
+<br><br>
 @snapend
 
 @snap[west]
@@ -43,7 +44,7 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-40 list-content-concise text-white]
+@snap[east span-50 list-content-concise text-white]
 @o1
 - STORE: folder structures of mailboxes and attachments are saved
 - SERIE and DBFM db: fast access to internal instances informations which single mailboxes are dedicated
@@ -52,6 +53,7 @@ Goals and Questions
 - Clients use Restful api
 - More components added like antivirus and other tasks
 @olend
+<br><br>
 @snapend
 
 @snap[west]
