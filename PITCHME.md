@@ -109,7 +109,7 @@ Modeling
 @snapend
 
 @snap[west span-55]
-@ul[spaced text-white]
+@ul[spaced text-white text-07]
 - Proxy server protect store servers from direct access by hosts that are not part of the e-mail system.
 - SGATE component handles internal requests from other components (Proxy - Store communication)
 - For availability and prevent data loss Store server run as a cluster of two servers
@@ -122,6 +122,6 @@ Modeling
 @snapend
 
 @snap[east span-45]
-@img[shadow](assets/img/img3.png)
+@img[shadow](template/img/img3.png)
 @snapend
 
