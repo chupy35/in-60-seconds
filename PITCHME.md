@@ -28,8 +28,8 @@ Goals and Questions
 @title[Text + Image]
 
 @snap[east span-50 text-white text-05]
-**System Description**
 @ul[split-screen-list text-05](false)
+**System Description**
 - One of the biggest hosters and leading domain registrars
 - Backend: E-mail sending, receiving requests, persistence via restful HTTP services, POP3, or IMAP
 - Service oriented paradigm
