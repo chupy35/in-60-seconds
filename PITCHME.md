@@ -101,4 +101,27 @@ Modeling
 @snap[south-east span-40 fragment text-06]]
 @box[bg-pink text-white](.#The resulting Usage-Model is used as an input to the performance prediction, after collecting performance metrics and the prediction, they are analyzed and compared)@snapend
 
+---?color=green
+@title[Application of the Workload-Aware Performance Monitoring Process In the following, we present the application of our approach in the industrial context]
+
+@snap[north-west]
+#### [cyan](**Store subsystem**)
+@snapend
+
+@snap[west span-55]
+@ul[spaced text-white]
+- Proxy server protect store servers from direct access by hosts that are not part of the e-mail system.
+- SGATE component handles internal requests from other components (Proxy - Store communication)
+- For availability and prevent data loss Store server run as a cluster of two servers
+- Each clients mailbox is associated with one server
+- In case of failure the other server takes responsibility and the backup is for persistency
+- Distributed Load
+- SGATE, IMAP and POP3 -> 10 servers
+- BACKUP -> 22 servers
+@ulend
+@snapend
+
+@snap[east span-45]
+@img[shadow](assets/img/img3.png)
+@snapend
 
