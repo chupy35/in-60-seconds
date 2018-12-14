@@ -27,7 +27,7 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-40 list-content-concise text-white]
+@snap[east span-20 list-content-concise text-white]
 @o1
 - One of the biggest hosters and leading domain registrars
 - Backend: E-mail sending, receiving requests, persistence via restful HTTP services, POP3, or IMAP
