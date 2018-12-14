@@ -99,7 +99,7 @@ Modeling
 @snapend
 
 @snap[south-east span-60 fragment]
-@box[bg-pink text-white](Step 3.#Cupidatat non proident sunt in culpa officia veniam quis.)
+@box[bg-pink text-white](.#After colecti)
 @snapend
 
 @snap[south-west template-note text-white]
