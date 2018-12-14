@@ -31,6 +31,8 @@ Goals and Questions
 @ul[split-screen-list text-07](false)
 **System Description**
 
+&nbsp;
+
 - One of the biggest hosters and leading domain registrars
 - Backend: E-mail sending, receiving requests, persistence via restful HTTP services, POP3, or IMAP
 - Service oriented paradigm
