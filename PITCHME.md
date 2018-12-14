@@ -144,6 +144,17 @@ Modeling
 @img[split-screen-img span-50](template/img/img4.png)
 @snapend
 
-@snap[south-west template-note text-white]
-Split-screen text and image-fragment template.
+---?image=template/img/bg/green.jpg&position=left&size=50% 100%
+@title[Performance Modeling Study]
+
+@snap[north-west span-50]
+###### @color[white](**Performance Modeling Study**)
 @snapend
+@snap[west span-40 text-11 text-white]
+Description and Modeling of different components in the Palladio Repository Model
+@snapend
+
+@snap[east fragment]
+@img[split-screen-img span-50](template/img/img5.png)
+@snapend
+
