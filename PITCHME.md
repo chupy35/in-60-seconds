@@ -90,7 +90,7 @@ Modeling
 # Analysis
 @snapend
 
-@snap[north-east span-40 fragment]
+@snap[north-east span-40 fragment text-06]
 @box[bg-purple text-white](.#Prediction of expected resource utilization requires measuring the current workload.)
 @snapend
 
