@@ -99,9 +99,6 @@ Modeling
 @snapend
 
 @snap[south-east span-40 fragment text-06]]
-@box[bg-pink text-white](.#After colecti)
-@snapend
+@box[bg-pink text-white](.#The resulting Usage-Model is used as an input to the performance prediction, after collecting performance metrics and the prediction, they are analyzed and compared)@snapend
 
-@snap[south-west template-note text-white]
-Boxed text fragments template.
-@snapend
+
