@@ -79,7 +79,5 @@ Modeling
 @olend
 @snapend
 
-@snap[south-west template-note text-gray]
-Split-screen heading and list body template.
-@snapend
+
 
