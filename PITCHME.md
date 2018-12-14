@@ -28,7 +28,7 @@ Goals and Questions
 @title[Text + Image]
 
 @snap[east span-50 text-white text-05]
-@ul[split-screen-list text-05](false)
+@ul[split-screen-list text-06](false)
 **System Description**
 
 - One of the biggest hosters and leading domain registrars
