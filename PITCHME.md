@@ -127,7 +127,7 @@ Modeling
 ---?image=template/img/bg/green.jpg&position=left&size=50% 100%
 @title[Performance Modeling Study]
 
-@snap[north-west]
+@snap[north-west span-50]
 ###### @color[white](**Performance Modeling Study**)
 @snapend
 
