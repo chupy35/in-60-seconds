@@ -17,14 +17,9 @@ Goals and Questions
 
 @snap[south-west list-content-concise span-100 text-white ]
 @ol
-- Lorem ipsum dolor sit amet
-- Consectetur adipiscing elit
-- Sed do eiusmod tempor
-- Ut enim ad minim veniam
-- Duis aute irure dolor in
-- Excepteur sint occaecat
-- Cupidatat non proident
-- Sunt in culpa qui officia
+- How to integrate model-based predictions into the run-time monitoring of systems?
+- How to model a large and distributed system consisting of several hundred servers?
+- How to calibrate the prediction model only on the basis of existing run-time monitoring data without running experiments? 
 @olend
 <br><br>
 @snapend
