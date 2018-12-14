@@ -84,7 +84,7 @@ Modeling
 @olend
 @snapend
 
----color=black
+---?color=black
 
 @snap[west span-45]
 # Analysis
