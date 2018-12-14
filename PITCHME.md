@@ -27,7 +27,7 @@ Goals and Questions
 ---?image=template/img/bg/black.jpg&position=right&size=50% 100%
 @title[Text + Image]
 
-@snap[east span-50 text-white text-05]
+@snap[east span-53 text-white text-05]
 @ul[split-screen-list text-07](false)
 **System Description**
 
