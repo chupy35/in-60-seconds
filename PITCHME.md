@@ -60,3 +60,26 @@ Goals and Questions
 
 @snap[west]
 @img[split-screen-img span-50](template/img/img1.png)
+
+---?image=template/img/bg/orange.jpg&position=right&size=50% 100%
+@title[Heading + List Body]
+
+@snap[west text-12 text-bold text-italic text-orange span-50]
+Modeling
+@snapend
+
+@snap[west]
+@img[split-screen-img span-50](template/img/img2.png)
+
+@snap[east text-white span-45]
+@ol[split-screen-list text-08](false)
+- Lorem ipsum dolor sit amet, consectetur elit
+- Ut enim ad minim veniam, quis exercitation
+- Duis aute irure dolor in reprehenderit in voluptate
+@olend
+@snapend
+
+@snap[south-west template-note text-gray]
+Split-screen heading and list body template.
+@snapend
+
