@@ -94,11 +94,11 @@ Modeling
 @box[bg-purple text-white](.#Prediction of expected resource utilization requires measuring the current workload.)
 @snapend
 
-@snap[east span-40 fragment]
+@snap[east span-40 fragment text-06]
 @box[bg-orange text-white](.#Prediction model is completed with the specification of system's usage within the Usage Model generation.)
 @snapend
 
-@snap[south-east span-40 fragment]
+@snap[south-east span-40 fragment text-06]]
 @box[bg-pink text-white](.#After colecti)
 @snapend
 
