@@ -148,7 +148,6 @@ Modeling
 @title[Performance Modeling Study]
 
 @snap[north-west span-50]
-###### @color[white](**Performance Modeling Study**)
 @snapend
 @snap[west span-40 text-11 text-white]
 Description and Modeling of different components in the Palladio Repository Model
