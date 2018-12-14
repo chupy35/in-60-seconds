@@ -157,3 +157,4 @@ Description and Modeling of different components in the Palladio Repository Mode
 @img[split-screen-img span-50](template/img/img5.png)
 @snapend
 
+---?image=template/img/img6.png&position=center&size=100% 100%
