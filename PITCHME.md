@@ -101,7 +101,7 @@ Modeling
 @snap[south-east span-40 fragment text-06]]
 @box[bg-pink text-white](.#The resulting Usage-Model is used as an input to the performance prediction, after collecting performance metrics and the prediction, they are analyzed and compared)@snapend
 
----?color=green
+---?color=#8ea33a
 @title[Application of the Workload-Aware Performance Monitoring Process In the following, we present the application of our approach in the industrial context]
 
 @snap[north-west]
