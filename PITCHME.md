@@ -230,3 +230,38 @@ For each cluster only one node within the resource environment was modeled
 @snap[west]
 @img[split-screen-img span-50](template/img/img10.png)
 
+---?image=template/img/bg/black.jpg&position=right&size=50% 100%
+@title[Model Calibration]
+
+@snap[east span-50 text-white text-05]
+@ul[split-screen-list text-09 span-90](false)
+**Prediction and Comparison**
+
+&nbsp;
+
+- Automatic tools to collect, parse and analyze logs
+- Values are integrated in an XML representation of the usage profiles replacing the previous inserted placeholders values
+- Usage profiles used for predictions and mismatches are identified 
+- Detection during a planned software update
+@snapend
+
+@snap[west]
+@img[split-screen-img span-50](template/img/img11.png)
+
+---?image=template/img/bg/green.jpg&position=left&size=50% 100%
+@title[Evaluation]
+
+@snap[north-west span-50]
+###### @color[white](**Evaluation**)
+@snapend
+
+@snap[west span-45]
+@ul[spaced text-white text-05]
+- Validation is done by conducting benchmarks or controlled experiments and comparing with the predicted values 
+@ulend
+@snapend
+
+@snap[east fragment]
+@img[split-screen-img span-50](template/img/img12.png)
+@snapend
+
