@@ -171,5 +171,5 @@ For each cluster only one node within the resource environment was modeled
 @snapend
 
 @snap[east fragment]
-@img[split-screen-img span-52](template/img/img7.png)
+@img[split-screen-img span-53](template/img/img7.png)
 @snapend
