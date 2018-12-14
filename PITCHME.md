@@ -110,7 +110,6 @@ Modeling
 
 @snap[west span-50]
 @ul[spaced text-white text-05]
-- Proxy server protect store servers from direct access by hosts that are not part of the e-mail system.
 - SGATE component handles internal requests from other components (Proxy - Store communication)
 - For availability and prevent data loss Store server run as a cluster of two servers
 - Each clients mailbox is associated with one server
